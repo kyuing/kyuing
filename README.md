@@ -15,7 +15,7 @@
 
 
 [email]: mailto:kyykyu000@gmail.com
-[linkedin]: https://www.linkedin.com/in/kyutae-han-b86523104/?target=_blank
+[linkedin]: https://www.linkedin.com/in/kyutae-han-b86523104?target=_blank
 
 <!--
 **kyuing/kyuing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
