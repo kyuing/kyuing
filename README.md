@@ -1,9 +1,9 @@
 ### Hello there 👋
 
 - 😄 KyuTae Han (he/him)
-- 📫 [email] | <a href="https://www.linkedin.com/in/kyutae-han-b86523104/" target="_blank">linkedin</a> 
+- 📫 [email] | [linkedin]
 
-
+<br />
 
 ### Techs I'm interested in
 <img src="https://img.shields.io/badge/-html-light" height="30"/> <img src="https://img.shields.io/badge/-javascript-lightblue"  height="30"/> 
@@ -15,7 +15,19 @@
 
 
 [email]: mailto:kyykyu000@gmail.com
-<!-- [linkedin]: https://www.linkedin.com/in/kyutae-han-b86523104/  -->
+[linkedin]: https://www.linkedin.com/in/kyutae-han-b86523104/ 
+<!-- <a href="https://www.linkedin.com/in/kyutae-han-b86523104/" target="_blank">linkedin</a>  -->
+
+<!--
+https://stackoverflow.com/questions/4425198/can-i-create-links-with-target-blank-in-markdown
+https://cmatskas.com/open-external-links-in-a-new-window-ghost/
+-->
+
+
+
+
+
+
 
 <!--
 **kyuing/kyuing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
