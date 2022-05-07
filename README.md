@@ -14,8 +14,8 @@
 <img src="https://img.shields.io/badge/-Java-lightpink"  height="30"/>
 
 
-[email]: kyykyu000@gmail.com
-[linkedin]: https://www.linkedin.com/in/kyutae-han-b86523104/
+[email]: mailto:kyykyu000@gmail.com
+[linkedin]: https://www.linkedin.com/in/kyutae-han-b86523104/?target=_blank
 
 <!--
 **kyuing/kyuing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
