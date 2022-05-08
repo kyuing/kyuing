@@ -11,9 +11,8 @@ import java.util.LinkedHashMap;
  */
 public class Main {
 	public static void main(String[] args) {
-		
-		Hello hello = new Hello();
-		hello.print();	
+
+		new Hello().print();
 		
 	}
 }
@@ -24,18 +23,23 @@ class Hello {
 		LinkedHashMap<String, String> map = new LinkedHashMap<>();
 		map.put("Name", "KyuTae Han");
 		map.put("Languages", "English, Korean");
-		map.put("Interests", "HTML, Javascript, nodeJS, web dev, RESTful, mongoDB, Java");
-
-		map.forEach((key, value) -> System.out.println(key + ": " + value));	// insertion-order
+		map.put("Code","HTML/CSS, Javascript, Java");
+		map.put("Tool/FW", "nodeJS, ajax");
+		map.put("Databse", "mongoDB, MySQL");
+		map.put("Interests", "web, RESTful, test/QA, project mgmt, SE");
+		
+		map.forEach((k, v) -> System.out.println(k + ": " + v));	// insertion-order
 	}
 }
 ```
 
-```
-//output
+```bash
 Name: KyuTae Han
 Languages: English, Korean
-Interests: HTML, Javascript, nodeJS, web dev, RESTful, mongoDB, Java
+Code: HTML/CSS, Javascript, Java
+Tool/FW: nodeJS, ajax
+Databse: mongoDB, MySQL
+Interests: web, RESTful, test/QA, project mgmt, SE
 ```
 
 <br />
