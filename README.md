@@ -25,7 +25,7 @@ class Hello {
 		map.put("Languages", "English, Korean");
 		map.put("Code","HTML/CSS, Javascript, Java");
 		map.put("Tool/FW", "nodeJS, ajax");
-		map.put("Databse", "mongoDB, MySQL");
+		map.put("Database", "mongoDB, MySQL");
 		map.put("Interests", "web, RESTful, test/QA, project mgmt, SE");
 		
 		map.forEach((k, v) -> System.out.println(k + ": " + v));	// insertion-order
@@ -38,7 +38,7 @@ Name: KyuTae Han
 Languages: English, Korean
 Code: HTML/CSS, Javascript, Java
 Tool/FW: nodeJS, ajax
-Databse: mongoDB, MySQL
+Database: mongoDB, MySQL
 Interests: web, RESTful, test/QA, project mgmt, SE
 ```
 
