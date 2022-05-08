@@ -12,13 +12,13 @@ import java.util.LinkedHashMap;
 public class Main {
 	public static void main(String[] args) {
 
-		new Hello().print();
+		new Hello().there();
 		
 	}
 }
 
 class Hello {
-	public void print() {
+	public void there() {
 		
 		LinkedHashMap<String, String> map = new LinkedHashMap<>();
 		map.put("Name", "KyuTae Han");
