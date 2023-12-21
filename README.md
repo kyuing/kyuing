@@ -1,3 +1,4 @@
+<!--
 ## Hello there 👋
 
 <br />
@@ -47,11 +48,11 @@ Interests: web, RESTful, test/QA, project mgmt, SE
 ## Contact
 - [email] 
 - [linkedin]
-
+-->
 
 <!-- links -->
-[email]: mailto:kyykyu000@gmail.com
-[linkedin]: https://www.linkedin.com/in/kyutae-han-b86523104/ 
+<!-- [email]: mailto:kyykyu000@gmail.com
+[linkedin]: https://www.linkedin.com/in/kyutae-han-b86523104/ -->
 
 <!--
 **kyuing/kyuing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
